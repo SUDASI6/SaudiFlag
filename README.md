@@ -1,4 +1,4 @@
-Colors of the flag ordered by first to be drawn (R,G,B):
+Colors of the flag ordered by first to be drawn (R,G,B):\n
 189,72,130
 102,255,227
 75,91,171
